@@ -1,0 +1,2 @@
+# StylometricAnalyser_python
+Stylometry is an application of statistical methods for linguistic style analysis. It is often used to attribute authorship to anonymous or disputed works (often in written language) based on the linguistic behaviours or characteristics manifested in the texts. One of the classic authorship attribution studies was whether William Shakespeare wrote all his works, in particular one of his popular plays — Henry VI Trilogy — was highly disputed to have been written or co-authored by Christopher Marlowe.
